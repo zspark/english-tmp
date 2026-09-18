@@ -1,58 +1,78 @@
 {
-    "notebook A":[
-        "insist",
-        "encumbrance",
-        "patriotic",
-        "tack",
-        "simultaneous",
-        "excessive",
-        "vacancy",
-        "pervasive",
-        "ultimately",
-        "intense",
-        "organization",
-        "diligent",
-        "demerit",
-        "furthermore",
-        "straightforward",
-        "straight",
-        "spark",
-        "approach",
-        "initiative",
-        "proportional",
-        "disproportionate",
-        "moreover",
-        "perhaps",
-        "impose",
-        "subsidy",
-        "muse",
-        "propose",
-        "procedure",
-        "velvet",
-        "catalog",
-        "category",
-        "provocative",
-        "criteria",
-        "livestock",
-        "resurgence",
-        "depredation",
-        "cattle",
-        "lethal",
-        "commemorate",
-        "vegetarian",
-        "reckon",
-        "tariff",
-        "balcony",
-        "brigade",
-        "offing"
-    ],
-    "STEM":[
-        "elephant",
-        "rhinoceros",
-        "hippopotamus",
-        "monkey",
-        "gorilla",
-        "chimpanzee",
-        "orangutan"
-    ]
+  "notebook A": {
+    "insist": {
+      "tested": 1,
+      "passed": false
+    },
+    "encumbrance": {
+      "tested": 1,
+      "passed": false
+    },
+    "patriotic": {
+      "tested": 4,
+      "passed": false
+    },
+    "tack": {
+      "tested": 4,
+      "passed": false
+    },
+    "simultaneous": {
+      "tested": 2,
+      "passed": false
+    },
+    "excessive": {
+      "tested": 2,
+      "passed": false
+    },
+    "vacancy": {
+      "tested": 2,
+      "passed": false
+    },
+    "pervasive": {
+      "tested": 2,
+      "passed": false
+    },
+    "ultimately": {
+      "tested": 2,
+      "passed": false
+    },
+    "intense": {
+      "tested": 0,
+      "passed": false
+    },
+    "organization": {
+      "tested": 0,
+      "passed": true
+    }
+  },
+  "STEM": {
+    "elephant": {
+      "tested": 0,
+      "passed": false
+    },
+    "rhinoceros": {
+      "tested": 0,
+      "passed": false
+    },
+    "hippopotamus": {
+      "tested": 0,
+      "passed": false
+    },
+    "monkey": {
+      "tested": 0,
+      "passed": false
+    },
+    "gorilla": {
+      "tested": 0,
+      "passed": false
+    },
+    "chimpanzee": {
+      "tested": 0,
+      "passed": false
+    },
+    "orangutan": {
+      "tested": 0,
+      "passed": false
+    }
+  }
 }
